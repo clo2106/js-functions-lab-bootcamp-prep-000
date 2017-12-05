@@ -10,6 +10,6 @@ function happyHolidays(){
 
   function happyHolidayTo(holiday, name){
     return 'Happy' + holiday + name'!'
-    var holiday = 'Independence Day'
+    var holiday = 'Independence Day,'
     var name = 'you'
   }
